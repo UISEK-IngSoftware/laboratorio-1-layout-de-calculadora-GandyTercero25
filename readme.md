@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: ____Gandy Tercero______
+- **Carrera**: __Ingenieria Informatica_____
+- **Fecha de entrega**: ___14-10-2025______
 
 ---
 
